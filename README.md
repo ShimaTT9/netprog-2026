@@ -1,1 +1,1 @@
-*# Network Programming and Simulator
+# 977-337 Network Programming and Simulation
